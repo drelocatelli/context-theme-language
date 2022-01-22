@@ -1,0 +1,9 @@
+body.dark {
+    background: #000;
+    color: #fff;
+}
+
+a {
+    color:red;
+    text-decoration: none;
+}
